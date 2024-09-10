@@ -1,0 +1,185 @@
+[
+  {
+    "week": 1,
+    "arms": [
+      {
+        "id": "stanley travel mug",
+        "arm_type": "keyword",
+        "spend": 317.76,
+        "sales": 886.58,
+        "impressions": 83421,
+        "clicks": 311,
+        "orders": 36
+      },
+      {
+        "id": "B08D3VPRQ1",
+        "arm_type": "asin",
+        "spend": 377.64,
+        "sales": 1679.98,
+        "impressions": 64200,
+        "clicks": 425,
+        "orders": 67
+      },
+      {
+        "id": "thermos stainless king",
+        "arm_type": "keyword",
+        "spend": 48.32,
+        "sales": 212.55,
+        "impressions": 15420,
+        "clicks": 95,
+        "orders": 9
+      },
+      {
+        "id": "yeti travel mug",
+        "arm_type": "keyword",
+        "spend": 22.11,
+        "sales": 0.0,
+        "impressions": 6500,
+        "clicks": 17,
+        "orders": 0
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "arms": [
+      {
+        "id": "stanley travel mug",
+        "arm_type": "keyword",
+        "spend": 612.25,
+        "sales": 1354.8,
+        "impressions": 124150,
+        "clicks": 512,
+        "orders": 52
+      },
+      {
+        "id": "B08D3VPRQ1",
+        "arm_type": "asin",
+        "spend": 905.1,
+        "sales": 2275.6,
+        "impressions": 110420,
+        "clicks": 708,
+        "orders": 83
+      },
+      {
+        "id": "contigo travel mug",
+        "arm_type": "keyword",
+        "spend": 180.44,
+        "sales": 360.0,
+        "impressions": 48200,
+        "clicks": 205,
+        "orders": 14
+      },
+      {
+        "id": "hydro flask mug",
+        "arm_type": "keyword",
+        "spend": 210.33,
+        "sales": 455.2,
+        "impressions": 50640,
+        "clicks": 221,
+        "orders": 18
+      },
+      {
+        "id": "yeti travel mug",
+        "arm_type": "keyword",
+        "spend": 95.0,
+        "sales": 0.0,
+        "impressions": 18250,
+        "clicks": 41,
+        "orders": 0
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "arms": [
+      {
+        "id": "stanley travel mug",
+        "arm_type": "keyword",
+        "spend": 540.0,
+        "sales": 1412.0,
+        "impressions": 118900,
+        "clicks": 498,
+        "orders": 55
+      },
+      {
+        "id": "B08D3VPRQ1",
+        "arm_type": "asin",
+        "spend": 820.0,
+        "sales": 2560.0,
+        "impressions": 106700,
+        "clicks": 725,
+        "orders": 92
+      },
+      {
+        "id": "B0STANLEY123",
+        "arm_type": "asin",
+        "spend": 410.0,
+        "sales": 1285.0,
+        "impressions": 68800,
+        "clicks": 402,
+        "orders": 44
+      },
+      {
+        "id": "yeti travel mug",
+        "arm_type": "keyword",
+        "spend": 120.0,
+        "sales": 0.0,
+        "impressions": 20500,
+        "clicks": 48,
+        "orders": 0
+      },
+      {
+        "id": "hydro flask mug",
+        "arm_type": "keyword",
+        "spend": 150.0,
+        "sales": 375.0,
+        "impressions": 40120,
+        "clicks": 180,
+        "orders": 16
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "arms": [
+      {
+        "id": "B08D3VPRQ1",
+        "arm_type": "asin",
+        "spend": 900.0,
+        "sales": 3500.0,
+        "impressions": 130200,
+        "clicks": 880,
+        "orders": 128
+      },
+      {
+        "id": "B0STANLEY123",
+        "arm_type": "asin",
+        "spend": 620.0,
+        "sales": 2480.0,
+        "impressions": 97200,
+        "clicks": 610,
+        "orders": 96
+      },
+      {
+        "id": "stanley travel mug",
+        "arm_type": "keyword",
+        "spend": 410.0,
+        "sales": 1580.0,
+        "impressions": 102400,
+        "clicks": 450,
+        "orders": 60
+      },
+      {
+        "id": "yeti travel mug",
+        "arm_type": "keyword",
+        "spend": 140.0,
+        "sales": 0.0,
+        "impressions": 22000,
+        "clicks": 44,
+        "orders": 0
+      }
+    ]
+  }
+]
+
